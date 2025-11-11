@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "70837568789",
+    "firebase_url": "https://aio-bible-default-rtdb.firebaseio.com",
+    "project_id": "aio-bible",
+    "storage_bucket": "aio-bible.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70837568789:android:7adb81d97287b641b3151c",
+        "android_client_info": {
+          "package_name": "com.cwp.aiobiblebackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70837568789-lgckoqrn4a1l7os5c1dt5c0hn4ofib90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cwp.aiobiblebackend",
+            "certificate_hash": "3537b1d2fefae11026168e9ad65c2d99a7f3c896"
+          }
+        },
+        {
+          "client_id": "70837568789-muvo8dv6vhu9ralige07ntag7ies2elh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTgzoVX06QmDCYCToqWDL4ZG_uQnoVok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70837568789-muvo8dv6vhu9ralige07ntag7ies2elh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70837568789-gt9fo6d6er2gmho64vimn02hob19h1sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cwp.AIO-Bible"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70837568789:android:a55bebd843fdb548b3151c",
+        "android_client_info": {
+          "package_name": "com.cwp.kjvbible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70837568789-6rmu985ehg2efkd4s7et1o58p8sdj3r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cwp.kjvbible",
+            "certificate_hash": "a9e9d0e8e9ade8e2cb8bc162ab7e617e389412ab"
+          }
+        },
+        {
+          "client_id": "70837568789-muvo8dv6vhu9ralige07ntag7ies2elh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTgzoVX06QmDCYCToqWDL4ZG_uQnoVok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70837568789-muvo8dv6vhu9ralige07ntag7ies2elh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70837568789-gt9fo6d6er2gmho64vimn02hob19h1sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cwp.AIO-Bible"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
